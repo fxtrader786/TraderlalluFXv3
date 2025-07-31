@@ -1,0 +1,9 @@
+# Telegram Config
+TOKEN = "8069962143:AAHospdn7R9EJrXLEgNQwm1G_9iukUosFYA"
+TELEGRAM_ID = "5747124136"
+
+# Forex Pairs
+MAJOR_PAIRS = [
+    "EUR/USD", "GBP/USD", "USD/JPY", "USD/CHF",
+    "AUD/USD", "USD/CAD", "NZD/USD"
+]
